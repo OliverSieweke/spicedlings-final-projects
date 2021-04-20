@@ -1,0 +1,2 @@
+[filter "prettier"]
+        clean = npx prettier --stdin-filepath %f
